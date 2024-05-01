@@ -1199,7 +1199,7 @@ footer ,.footer-1st-house p{
   @media (max-width:600px){
     /* home page */
     .home-page{
-    height: 100vh;
+    height: 100dvh;
     margin: 0px;
     padding: 0px;
     }
