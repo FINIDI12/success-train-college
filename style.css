@@ -54,6 +54,7 @@ body{
   color: teal;
  }
  body .container{
+   padding:2rem 0;
   /* visibility: hidden; */
   display: none;
   
